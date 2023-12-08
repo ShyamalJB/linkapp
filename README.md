@@ -1,3 +1,4 @@
+Hello guys 👋
 At first, clone this repository.
 To run the application go to "dist" folder and open "linkapp.exe" file. This might only run on Windows only.
 
